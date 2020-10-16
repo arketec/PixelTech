@@ -1,0 +1,86 @@
+<galaxy>
+    <star name="Sol" temp="100" x="0" y="0" numPlanets="9" numGasGiants="4">
+        <planet name="Mercury" DIMID="100">
+            <isKnown>True</isKnown>
+            <orbitalDistance>50</orbitalDistance>
+            <skyColor>0xFF6347</skyColor>
+            <fogColor>0xFFA500</fogColor>
+            <gravitationalMultiplier>50</gravitationalMultiplier>
+            <atmosphereDensity>10</atmosphereDensity>
+        </planet>
+        <planet name="Venus" DIMID="101">
+            <isKnown>True</isKnown>
+            <orbitalDistance>80</orbitalDistance>
+            <skyColor>0xFF6347</skyColor>
+            <fogColor>0xFFA500</fogColor>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <atmosphereDensity>1000</atmosphereDensity>
+        </planet>
+        <planet name="Earth" DIMID="0" dimMapping="">
+            <isKnown>True</isKnown>
+            <orbitalDistance>100</orbitalDistance>
+            <planet name="Luna" DIMID="201">
+                <atmosphereDensity>1</atmosphereDensity>
+                <gravitationalMultiplier>30</gravitationalMultiplier>
+            </planet>
+        </planet>
+        <planet name="Mars" DIMID="103">
+            <isKnown>True</isKnown>
+            <orbitalDistance>180</orbitalDistance>
+            <gravitationalMultiplier>60</gravitationalMultiplier>
+            <planet name="Phobos" DIMID="202">
+                <atmosphereDensity>1</atmosphereDensity>
+            </planet>
+            <planet name="Deimos" DIMID="203">
+                <atmosphereDensity>1</atmosphereDensity>
+            </planet>
+            <atmosphereDensity>30</atmosphereDensity>
+        </planet>
+        <planet name="Astroid Belt" DIMID="200">
+            <orbitalDistance>200</orbitalDistance>
+            <genType>2</genType>
+        </planet>
+        <planet name="Jupiter" DIMID="104">
+            <isKnown>True</isKnown>
+            <orbitalDistance>400</orbitalDistance>
+            <hasRings>true</hasRings>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>helium</gas>
+            <planet name="Io" DIMID="204"/>
+            <planet name="Europa" DIMID="205" />
+            <planet name="Ganymede" DIMID="206" />
+            <planet name="Callisto" DIMID="207" />
+        </planet>
+        <planet name="Saturn" DIMID="105">
+            <isKnown>True</isKnown>
+            <orbitalDistance>650</orbitalDistance>
+            <hasRings>true</hasRings>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>helium</gas>
+            <planet name="Titan" DIMID="208" />
+            <planet name="Rhea" DIMID="209" />
+            <planet name="Hyperion" DIMID="210" />
+            <planet name="Iapetus" DIMID="211" />
+        </planet>
+        <planet name="Uranus" DIMID="106">
+            <isKnown>True</isKnown>
+            <orbitalDistance>900</orbitalDistance>
+            <hasRings>true</hasRings>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>oxygen</gas>
+            <gas>methane</gas>
+        </planet>
+        <planet name="Neptune" DIMID="107">
+            <isKnown>True</isKnown>
+            <orbitalDistance>1500</orbitalDistance>
+            <hasRings>true</hasRings>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>oxygen</gas>
+            <gas>ammonia</gas>
+        </planet>
+    </star>
+</galaxy>

@@ -1,0 +1,234 @@
+{
+    "registryname": "crystal_cutter",
+    "localizedname": "Crystal Cutter", 
+    "requires-blueprint": false, 
+    "color": "DCDCDC", 
+    "parts": [
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+                        "elements": [
+                "modularmachinery:blockcasing@3",
+                "casings_energy"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+                        "elements": "casings_item"
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+                        "elements": [
+                "astralsorcery:blockcelestialcollectorcrystal"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+                        "elements": "casings_item"
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+                        "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+                        "elements": [
+                "astralsorcery:blockmachine@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+                        "elements": [
+                "astralsorcery:blockmachine@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+                        "elements": [
+                "astralsorcery:blockcelestialcollectorcrystal"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+                        "elements": [
+                "astralsorcery:blockcelestialcollectorcrystal"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+                        "elements": [
+                "astralsorcery:blockbore"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+                        "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+                        "elements": "casings_item"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+                        "elements": [
+                "astralsorcery:blockmachine@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+                        "elements": [
+                "astralsorcery:blockmachine@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+                        "elements": [
+                "modularmachinery:blockcasing@3",
+                "casings_energy"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+                        "elements": [
+                "modularmachinery:blockcasing@3",
+                "casings_energy"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+                        "elements": [
+                "astralsorcery:blockcelestialcollectorcrystal"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+                        "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+                        "elements": "casings_item"
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+                        "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+                        "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+                        "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+                        "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+                        "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+                        "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+                        "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+                        "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+                        "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+                        "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        }
+    ]}

@@ -1,0 +1,24 @@
+{
+    "machine": "auto_mechanical_anvil",
+    "registryName": "auto_mechanical_anvil_aluminum_base",
+    "recipeTime": 20,
+    "requirements": [ 
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 2048
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "pixelmon:aluminum_base",
+            "amount": 3
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "immersiveengineering:metal@1",
+            "amount": 3
+        }
+    ]
+}

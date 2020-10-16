@@ -1,0 +1,30 @@
+{
+    "machine": "auto_mechanical_anvil",
+    "registryName": "auto_mechanical_anvil_lid_safari",
+    "recipeTime": 20,
+    "requirements": [ 
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 2048
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "pixelmon:safari_ball_lid",
+            "amount": 3
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "pixelmon:cooked_green_apricorn",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "pixelmon:cooked_yellow_apricorn",
+            "amount": 1
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "machine": "auto_mechanical_anvil",
+    "registryName": "auto_mechanical_anvil_lid_moon",
+    "recipeTime": 20,
+    "requirements": [ 
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 2048
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "pixelmon:moon_ball_lid",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "pixelmon:cooked_blue_apricorn",
+            "amount": 3
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "pixelmon:cooked_yellow_apricorn",
+            "amount": 3
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "pixelmon:cooked_black_apricorn",
+            "amount": 3
+        }
+    ]
+}

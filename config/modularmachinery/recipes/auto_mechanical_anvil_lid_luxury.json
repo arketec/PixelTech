@@ -1,0 +1,36 @@
+{
+    "machine": "auto_mechanical_anvil",
+    "registryName": "auto_mechanical_anvil_lid_luxury",
+    "recipeTime": 20,
+    "requirements": [ 
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 2048
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "pixelmon:luxury_ball_lid",
+            "amount": 3
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "pixelmon:cooked_red_apricorn",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "pixelmon:cooked_white_apricorn",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "pixelmon:cooked_black_apricorn",
+            "amount": 1
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "machine": "auto_mechanical_anvil",
+    "registryName": "auto_mechanical_anvil_lid_poke",
+    "recipeTime": 20,
+    "requirements": [ 
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 2048
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "pixelmon:poke_ball_lid",
+            "amount": 5
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "pixelmon:cooked_red_apricorn",
+            "amount": 3
+        }
+    ]
+}
