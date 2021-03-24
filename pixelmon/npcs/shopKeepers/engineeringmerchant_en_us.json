@@ -1,0 +1,46 @@
+{
+    "data": {
+      "type": "Spawn",
+      "biomes": [
+        "Plains",
+        "ExtremeHills"
+      ]
+    },
+    "textures": [
+      {
+        "name": "engineer_merchant.png"
+      }
+    ],
+    "names": [
+      {
+        "name": "Tom"
+      }
+    ],
+    "chat": [
+      {
+        "hello": "Feel free to use my shop's machines",
+        "goodbye": "Take Care!"
+      },
+      {
+        "hello": "Hello! We have the most competitive prices.",
+        "goodbye": "It's been a pleasure doing business with you."
+      }
+    ],
+    "items": [
+      {
+        "name": "wrenchImmersiveEngineering"
+      },
+      {
+        "name": "bookImmersiveEngineering"
+      },
+      {
+        "name": "bucketCreosote",
+        "rarity": 0.1
+      },
+      {
+        "name": "plankTreatedWood",
+        "rarity": 0.2
+      }
+    ]
+  }
+  

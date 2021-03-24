@@ -1,4 +1,5 @@
 import mods.appliedenergistics2.Inscriber;
+import mods.appliedenergistics2.Attunement;
 
 // ----- Inscriber -----
 
@@ -24,3 +25,8 @@ Inscriber.addRecipe(<opencomputers:component:10>, <buildcraftsilicon:redstone_ch
 Inscriber.addRecipe(<opencomputers:component:11>, <buildcraftsilicon:redstone_chipset:2>, false, <opencomputers:material:4>, <opencomputers:material:9>); // memory tier 3.5
 
 
+// p2p
+
+Attunement.attuneRF(<immersiveengineering:metal_device0:0>);
+Attunement.attuneRF(<immersiveengineering:metal_device0:1>);
+Attunement.attuneRF(<immersiveengineering:metal_device0:2>);

@@ -1,0 +1,33 @@
+{
+    "machine": "celestial_crystal_growth_altar",
+    "registryName": "celestial_crystal_growth_altar_celestialcrystal",
+    "recipeTime": 12000,
+    "requirements": [ 
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "astralsorcery.liquidstarlight",
+            "amount": 16000
+        },
+        {
+            "type": "starlight",
+            "io-type": "input",
+            "amount": 1200
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "astralsorcery:itemcelestialcrystal",
+            "nbt": {"astralsorcery": {"crystalProperties": {"collectiveCapability": "100", "size": "900", "fract": "0", "purity": "100"}}},
+            "amount": 1,
+            "chance": 0.90
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "astralsorcery:itemcelestialcrystal",
+            "nbt": {"astralsorcery": {"crystalProperties": {"collectiveCapability": "100", "size": "900", "fract": "0", "purity": "100"}}},
+            "amount": 2
+        }
+    ]
+}

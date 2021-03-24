@@ -1,0 +1,52 @@
+[
+    {
+    "dimension": -1,
+    "mob": "minecraft:skeleton",
+    "mincount": {
+      "amount": 0,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": -1,
+    "mob": "minecraft:magma_cube",
+    "mincount": {
+      "amount": 0,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": -1,
+    "mob": "minecraft:blaze",
+    "mincount": {
+      "amount": 0,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": -1,
+    "mob": "minecraft:wither_skeleton",
+    "mincount": {
+      "amount": 0,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": -1,
+    "mob": "minecraft:zombie_pigman",
+    "mincount": {
+      "amount": 0,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  }
+]

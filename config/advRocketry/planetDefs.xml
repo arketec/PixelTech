@@ -83,4 +83,17 @@
             <gas>ammonia</gas>
         </planet>
     </star>
+    <star name="Zeta Reticulan" temp="100" x="0" y="0" numPlanets="2">
+        <planet name="Zeta Reticulan 1" DIMID="108">
+            <isKnown>True</isKnown>
+            <orbitalDistance>2500</orbitalDistance>
+            <rotationalPeriod>240000</rotationalPeriod>
+        </planet>
+        <planet name="Zeta Reticulan 2" DIMID="109">
+            <isKnown>True</isKnown>
+            <orbitalDistance>2800</orbitalDistance>
+            <gravitationalMultiplier>80</gravitationalMultiplier>
+            <fillerBlock>astralsorcery:blockmarble</fillerBlock>
+        </planet>
+    </star>
 </galaxy>

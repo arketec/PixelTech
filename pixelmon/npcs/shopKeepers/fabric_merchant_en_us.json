@@ -1,0 +1,184 @@
+{
+  "data": {
+    "type": "Spawn",
+    "biomes": [
+      "Plains"
+    ]
+  },
+  "textures": [
+    {
+      "name": "fabric_merchant.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Joanne"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Need to knit a sweater, or a sail?",
+      "goodbye": "Come back soon!"
+    }
+  ],
+  "items": [
+    {
+      "name": "seedHemp"
+    },
+    {
+      "name": "fiberHemp"
+    },
+    {
+      "name": "fabricHemp",
+      "rarity": 0.9
+    },
+    {
+      "name": "coilHemp",
+      "rarity": 0.9
+    },
+    {
+      "name": "fabricMesh",
+      "rarity": 0.9
+    },
+    {
+      "name": "fabricCotton",
+      "rarity": 0.9
+    },
+    {
+      "name": "fabricCloth",
+      "rarity": 0.9
+    },
+    {
+      "name": "clothManaweave",
+      "rarity": 0.2
+    },
+    {
+      "name": "clothSpell",
+      "rarity": 0.1
+    },
+    {
+      "name": "clothSilky",
+      "rarity": 0.2
+    },
+    {
+      "name": "clothesAshcap",
+      "rarity": 0.6
+    },
+    {
+      "name": "clothesAshbody",
+      "rarity": 0.6
+    },
+    {
+      "name": "clothesAshlegs",
+      "rarity": 0.6
+    },
+    {
+      "name": "clothesAshboots",
+      "rarity": 0.6
+    },
+    {
+      "name": "clothesBrockbody",
+      "rarity": 0.6
+    },
+    {
+      "name": "clothesBrocklegs",
+      "rarity": 0.6
+    },
+    {
+      "name": "clothesBrockboots",
+      "rarity": 0.6
+    },
+    {
+      "name": "clothesMistybody",
+      "rarity": 0.6
+    },
+    {
+      "name": "clothesMistylegs",
+      "rarity": 0.6
+    },
+    {
+      "name": "clothesMistyboots",
+      "rarity": 0.6
+    },
+    {
+      "name": "clothesTeamrocketgruntcap",
+      "rarity": 0.2
+    },
+    {
+      "name": "clothesTeamrocketgruntbody",
+      "rarity": 0.2
+    },
+    {
+      "name": "clothesTeamrocketgruntlegs",
+      "rarity": 0.2
+    },
+    {
+      "name": "clothesTeamrocketgruntboots",
+      "rarity": 0.2
+    },
+    {
+      "name": "woolWhite",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolOrange",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolMagenta",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolLightblue",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolYellow",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolLime",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolPink",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolGray",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolLightGray",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolCyan",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolPurple",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolBlue",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolBrown",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolGreen",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolRed",
+      "rarity": 0.9
+    },
+    {
+      "name": "woolBlack",
+      "rarity": 0.9
+    }
+  ]
+}

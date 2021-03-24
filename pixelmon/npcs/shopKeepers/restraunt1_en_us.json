@@ -1,0 +1,81 @@
+{
+    "data": {
+      "type": "Spawn",
+      "biomes": [
+        "Plains"
+      ]
+    },
+    "textures": [
+      {
+        "name": "cafe_waitress.png"
+      }
+    ],
+    "names": [
+      {
+        "name": "Gladis"
+      }
+    ],
+    "chat": [
+      {
+        "hello": "I only serve breakfast food, hun",
+        "goodbye": "What? No tip?"
+      }
+    ],
+    "items": [
+      {
+        "name": "harvestcraft:cornedbeefbreakfastitem",
+        "rarity": 0.1
+      }, 
+      {
+        "name": "harvestcraft:breakfastburritoitem",
+        "rarity": 0.4
+      }, 
+      {
+        "name": "harvestcraft:breadedporkchopitem",
+        "rarity": 0.8
+      }, 
+      {
+        "name": "harvestcraft:donutitem",
+        "rarity": 0.8
+      },
+      {
+        "name": "harvestcraft:coffeeitem"
+      },
+      {
+        "name": "harvestcraft:toastitem"
+      },
+      {
+        "name": "harvestcraft:coffeeconlecheitem",
+        "rarity": 0.9
+      },
+      {
+        "name": "harvestcraft:wafflesitem",
+        "rarity": 0.4
+      },
+      {
+        "name": "harvestcraft:baconandeggsitem",
+        "rarity": 0.5
+      },
+      {
+        "name": "harvestcraft:baconpancakesitem",
+        "rarity": 0.5
+      },
+      {
+        "name": "harvestcraft:melonsmoothieitem",
+        "rarity": 0.4
+      },
+      {
+        "name": "harvestcraft:limesmoothieitem",
+        "rarity": 0.4
+      },
+      {
+        "name": "harvestcraft:grapesmoothieitem",
+        "rarity": 0.4
+      },
+      {
+        "name": "harvestcraft:starfruitsmoothieitem",
+        "rarity": 0.4
+      }
+    ]
+  }
+  

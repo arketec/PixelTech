@@ -1,0 +1,50 @@
+{
+  "data": {
+    "type": "Spawn",
+    "biomes": [
+      "Plains"
+    ]
+  },
+  "textures": [
+    {
+      "name": "alchemist.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Tom"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "I have reagents for you",
+      "goodbye": "Please, try my potions. Or on second thought, nevermind"
+    }
+  ],
+  "items": [
+    {
+      "name": "nether_wart",
+      "rarity": 0.6
+    },
+    {
+      "name": "ghast_tear",
+      "rarity": 0.6
+    },
+    {
+      "name": "gunpowder",
+      "rarity": 0.6
+    },
+    {
+      "name": "redstone",
+      "rarity": 0.6
+    },
+    {
+      "name": "glowstone_dust",
+      "rarity": 0.6
+    },
+    {
+      "name": "blaze_powder",
+      "rarity": 0.6
+    }
+  ]
+}

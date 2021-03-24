@@ -1,0 +1,198 @@
+{
+    "data": {
+      "type": "Spawn",
+      "biomes": [
+        "Plains"
+      ]
+    },
+    "textures": [
+      {
+        "name": "geek_squad.png"
+      }
+    ],
+    "names": [
+      {
+        "name": "Fred"
+      }
+    ],
+    "chat": [
+      {
+        "hello": "Welcome to Electroshak! We have the finest offerings for your electronic needs",
+        "goodbye": "Be sure to check back tomorrow! New items in stock everyday!"
+      }
+    ],
+    "items": [
+      {
+        "name": "toolWireCutter",
+        "rarity": 1.0
+      },
+      {
+        "name": "toolBCWrench",
+        "rarity": 1.0
+      },
+      {
+        "name": "toolProjector",
+        "rarity": 1.0
+      },
+      {
+        "name": "ingotCopper",
+        "rarity": 0.9
+      },
+      {
+        "name": "ingotAluminum",
+        "rarity": 0.9
+      },
+      {
+        "name": "ingotLead",
+        "rarity": 0.9
+      },
+      {
+        "name": "ingotSilver",
+        "rarity": 0.6
+      },
+      {
+        "name": "ingotNickel",
+        "rarity": 0.6
+      },
+      {
+        "name": "ingotConstantan",
+        "rarity": 0.2
+      },
+      {
+        "name": "ingotElectrum",
+        "rarity": 0.2
+      },
+      {
+        "name": "wireCopper",
+        "rarity": 0.6
+      },
+      {
+        "name": "wireAluminum",
+        "rarity": 0.6
+      },
+      {
+        "name": "wireElectrum",
+        "rarity": 0.1
+      },
+      {
+        "name": "wireSteel",
+        "rarity": 0.1
+      },
+      {
+        "name": "plateCopper",
+        "rarity": 0.6
+      },
+      {
+        "name": "plateAluminum",
+        "rarity": 0.6
+      },
+      {
+        "name": "plateLead",
+        "rarity": 0.6
+      },
+      {
+        "name": "plateSilver",
+        "rarity": 0.2
+      },
+      {
+        "name": "plateNickel",
+        "rarity": 0.2
+      },
+      {
+        "name": "plateConstantan",
+        "rarity": 0.1
+      },
+      {
+        "name": "plateElectrum",
+        "rarity": 0.1
+      },
+      {
+        "name": "coilCopper",
+        "rarity": 0.6
+      },
+      {
+        "name": "coilAF",
+        "rarity": 0.2
+      },
+      {
+        "name": "connectorCopper",
+        "rarity": 0.6
+      },
+      {
+        "name": "relayCopper",
+        "rarity": 0.6
+      },
+      {
+        "name": "connectorAF",
+        "rarity": 0.2
+      },
+      {
+        "name": "blueprintComponents",
+        "rarity": 0.6
+      },
+      {
+        "name": "blueprintMolds",
+        "rarity": 0.6
+      },
+      {
+        "name": "blueprintElectrode",
+        "rarity": 0.2
+      },
+      {
+        "name": "blueprintBasicCircuits",
+        "rarity": 0.6
+      },
+      {
+        "name": "cableOC",
+        "rarity": 0.9
+      },
+      {
+        "name": "keyboardOC",
+        "rarity": 0.9
+      },
+      {
+        "name": "materialCircuitBoardPrinted",
+        "rarity": 0.1
+      },
+      {
+        "name": "transistorOC",
+        "rarity": 0.9
+      },
+      {
+        "name": "circuitChipOC",
+        "rarity": 0.9
+      },
+      {
+        "name": "eepromLua",
+        "rarity": 0.1
+      },
+      {
+        "name": "eepromLua",
+        "rarity": 0.1
+      },
+      {
+        "name": "adapterOC",
+        "rarity": 0.6
+      },
+      {
+        "name": "chipBasic",
+        "rarity": 0.6
+      },
+      {
+        "name": "chipAdvanced",
+        "rarity": 0.2
+      },
+      {
+        "name": "circuitComparator",
+        "rarity": 0.6
+      },
+      {
+        "name": "engineRedstone",
+        "rarity": 0.6
+      },
+      {
+        "name": "cableMagneticraft",
+        "rarity": 0.9
+      }
+    ]
+  }

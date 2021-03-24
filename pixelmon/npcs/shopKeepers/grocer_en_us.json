@@ -1,0 +1,511 @@
+{
+    "data": {
+      "type": "Spawn",
+      "biomes": [
+        "Plains"
+      ]
+    },
+    "textures": [
+      {
+        "name": "grocer.png"
+      }
+    ],
+    "names": [
+      {
+        "name": "Fred"
+      }
+    ],
+    "chat": [
+      {
+        "hello": "Fresh food!",
+        "goodbye": "Have a nice day!"
+      },
+      {
+        "hello": "Hello! We have the most competitive prices.",
+        "goodbye": "It's been a pleasure doing business with you."
+      }
+    ],
+    "items": [
+      {
+        "name": "harvestcraft:artichokeseeditem",
+        "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:asparagusseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:bambooshootseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:barleyseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:beanseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:beetseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:bellpepperseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:blackberryseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:blueberryseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:broccoliseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:brusselsproutseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cabbageseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cactusfruitseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:candleberryseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cantaloupeseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cauliflowerseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:celeryseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:chilipepperseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:coffeeseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cornseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cottonseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cranberryseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cucumberseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:curryleafseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:eggplantseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:garlicseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:gingerseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:grapeseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:kiwiseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:leekseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:lettuceseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:mustardseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:oatsseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:okraseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:onionseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:parsnipseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:peanutseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:peasseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:pineappleseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:radishseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:raspberryseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:rhubarbseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:riceseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:rutabagaseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:ryeseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:scallionseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:seaweedseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:sesameseedsitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:soybeanseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:spiceleafseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:spinachseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:strawberryseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:sweetpotatoseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:teaseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:tomatoseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:turnipseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:waterchestnutseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:whitemushroomseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:wintersquashseeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:zucchiniseeditem",
+          "rarity": 0.2
+      },
+      {
+        "name": "harvestcraft:artichokeitem",
+        "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:asparagusitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:bambooshootitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:barleyitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:beanitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:beetitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:bellpepperitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:blackberryitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:blueberryitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:broccoliitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:brusselsproutitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cabbageitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cactusfruititem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:candleberryitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cantaloupeitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:caulifloweritem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:celeryitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:chilipepperitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:coffeeitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cornitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cottonitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cranberryitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:cucumberitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:curryleafitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:eggplantitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:garlicitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:gingeritem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:grapeitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:kiwiitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:leekitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:lettuceitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:mustarditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:oatsitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:okraitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:onionitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:parsnipitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:peanutitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:peasitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:pineappleitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:radishitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:raspberryitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:rhubarbitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:riceitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:rutabagaitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:ryeitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:scallionitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:seaweeditem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:sesamesitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:soybeanitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:spiceleafitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:spinachitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:strawberryitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:sweetpotatoitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:teaitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:tomatoitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:turnipitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:waterchestnutitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:whitemushroomitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:wintersquashitem",
+          "rarity": 0.2
+      }, 
+      {
+          "name": "harvestcraft:zucchiniitem",
+          "rarity": 0.2
+      }
+    ]
+  }
+  

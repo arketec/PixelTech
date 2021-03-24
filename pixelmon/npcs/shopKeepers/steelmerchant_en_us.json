@@ -1,0 +1,60 @@
+{
+    "data": {
+      "type": "Spawn",
+      "biomes": [
+        "Plains",
+        "ExtremeHills"
+      ]
+    },
+    "textures": [
+      {
+        "name": "steel_merchant.png"
+      }
+    ],
+    "names": [
+      {
+        "name": "Bert"
+      },
+      {
+        "name": "Ingnis"
+      }
+    ],
+    "chat": [
+      {
+        "hello": "You there! Pokémon hunter! I hope you need steel!",
+        "goodbye": "If you find any steel types, let me know, Pokémon hunter."
+      },
+      {
+        "hello": "Hello! We have the most competitive prices.",
+        "goodbye": "It's been a pleasure doing business with you."
+      }
+    ],
+    "items": [
+      {
+        "name": "minecraft:coal"
+      },
+      {
+        "name": "blastBrick"
+      },
+      {
+        "name": "cokeBrick"
+      },
+      {
+        "name": "ingotSteel",
+        "rarity": 0.8
+      },
+      {
+        "name": "plateSteel",
+        "rarity": 0.2
+      },
+      {
+        "name": "stickSteel",
+        "rarity": 0.2
+      },
+      {
+        "name": "componentSteel",
+        "rarity": 0.1
+      }
+    ]
+  }
+  

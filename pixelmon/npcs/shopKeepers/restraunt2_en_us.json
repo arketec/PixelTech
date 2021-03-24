@@ -1,0 +1,51 @@
+{
+    "data": {
+      "type": "Spawn",
+      "biomes": [
+        "Plains",
+        "ExtremeHills"
+      ]
+    },
+    "textures": [
+      {
+        "name": "pizza_guy.png"
+      }
+    ],
+    "names": [
+      {
+        "name": "Steve"
+      }
+    ],
+    "chat": [
+      {
+        "hello": "Bruh, I only got pizza",
+        "goodbye": "Let me know if you want to talk to my 'guy'"
+      }
+    ],
+    "items": [
+      {
+        "name": "harvestcraft:meatfeastpizzaitem",
+        "rarity": 0.1
+      },
+      {
+        "name": "harvestcraft:pizzasliceitem"
+      },
+      {
+        "name": "harvestcraft:pizzaitem",
+        "rarity": 0.8
+      },
+      {
+        "name": "harvestcraft:supremepizzaitem",
+        "rarity": 0.8
+      },
+      {
+        "name": "harvestcraft:hamandpineapplepizzaitem",
+        "rarity": 0.8
+      },
+      {
+        "name": "harvestcraft:bbqchickenpizzaitem",
+        "rarity": 0.8
+      }
+    ]
+  }
+  

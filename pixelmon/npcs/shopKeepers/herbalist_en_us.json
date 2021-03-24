@@ -1,0 +1,90 @@
+{
+  "data": {
+    "type": "Spawn",
+    "biomes": [
+      "Plains"
+    ]
+  },
+  "textures": [
+    {
+      "name": "herbalist.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Joan"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Need some herbs?",
+      "goodbye": "Whatever you do, don't turn your back to the plants"
+    }
+  ],
+  "items": [
+    {
+      "name": "flowerMystical0",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical1",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical2",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical3",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical4",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical5",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical6",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical7",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical8",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical9",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical10",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical11",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical12",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical13",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical14",
+      "rarity": 0.9
+    },
+    {
+      "name": "flowerMystical15",
+      "rarity": 0.9
+    }
+  ]
+}

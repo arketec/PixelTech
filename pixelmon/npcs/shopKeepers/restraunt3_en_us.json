@@ -1,0 +1,105 @@
+{
+    "data": {
+      "type": "Spawn",
+      "biomes": [
+        "Plains"
+      ]
+    },
+    "textures": [
+      {
+        "name": "waiter.png"
+      },
+      {
+        "name": "waitress.png"
+      }
+    ],
+    "names": [
+      {
+        "name": "Chives"
+      },
+      {
+        "name": "Tiffany"
+      }
+    ],
+    "chat": [
+      {
+        "hello": "How may I be of service?",
+        "goodbye": "Why thank you"
+      }
+    ],
+    "items": [
+      {
+        "name": "harvestcraft:gourmetvenisonburgeritem",
+        "rarity": 0.1
+      }, 
+      {
+        "name": "harvestcraft:koreandinneritem",
+        "rarity": 0.1
+      },
+      {
+        "name": "harvestcraft:bbqpulledporkitem",
+        "rarity": 0.8
+      },
+      {
+        "name": "harvestcraft:veggiestripsitem",
+        "rarity": 0.8
+      },
+      {
+        "name": "harvestcraft:veggiestirfryitem",
+        "rarity": 0.8
+      },
+      {
+        "name": "harvestcraft:chickensandwichitem",
+        "rarity": 0.6
+      },
+      {
+        "name": "harvestcraft:applejellysandwichitem",
+        "rarity": 0.6
+      },
+      {
+        "name": "harvestcraft:raspberryjellysandwichitem",
+        "rarity": 0.6
+      },
+      {
+        "name": "harvestcraft:cucumbersandwichitem",
+        "rarity": 0.6
+      },
+      {
+        "name": "harvestcraft:tunafishsandwichitem",
+        "rarity": 0.6
+      },
+      {
+        "name": "harvestcraft:montecristosandwichitem",
+        "rarity": 0.6
+      },
+      {
+        "name": "harvestcraft:hamandcheesesandwichitem",
+        "rarity": 0.6
+      },
+      {
+        "name": "harvestcraft:peanutbutterbananasandwichitem",
+        "rarity": 0.6
+      },
+      {
+        "name": "harvestcraft:hamburgeritem",
+        "rarity": 0.8
+      },
+      {
+        "name": "harvestcraft:cheeseburgeritem",
+        "rarity": 0.8
+      },
+      {
+        "name": "harvestcraft:baconcheeseburgeritem",
+        "rarity": 0.8
+      },
+      {
+        "name": "harvestcraft:paradiseburgeritem",
+        "rarity": 0.1
+      },
+      {
+        "name": "harvestcraft:gourmetmuttonburgeritem",
+        "rarity": 0.1
+      }
+    ]
+  }
+  

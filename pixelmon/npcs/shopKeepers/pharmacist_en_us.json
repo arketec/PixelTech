@@ -1,0 +1,61 @@
+{
+  "data": {
+    "type": "Spawn",
+    "biomes": [
+      "Plains"
+    ]
+  },
+  "textures": [
+    {
+      "name": "chemist.png"
+    },
+    {
+      "name": "chemist1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Alex"
+    },
+    {
+      "name": "Kelly"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hello! Do you need some Radaway?",
+      "goodbye": "Come back if you need more meds!"
+    }
+  ],
+  "items": [
+    {
+      "name": "radway"
+    },
+    {
+      "name": "radwaySlow"
+    },
+    {
+      "name": "radx"
+    },
+    {
+      "name": "potHealing",
+      "rarity": 0.9
+    },
+    {
+      "name": "potLongRegen",
+      "rarity": 0.2
+    },
+    {
+      "name": "compCaffine",
+      "rarity": 0.1
+    },
+    {
+      "name": "compPenicillin",
+      "rarity": 0.1
+    },
+    {
+      "name": "compPsilocybin",
+      "rarity": 0.1
+    }
+  ]
+}
